@@ -18,3 +18,9 @@ print("Prime numbers:")
 print(primes)
 print("Not prime numbers:")
 print(not_primes)
+# consol
+# It's not that simple
+# Prime numbers:
+# [2, 3, 5, 7, 11, 13]
+# Not prime numbers:
+# [4, 6, 8, 9, 10, 12, 14, 15]
